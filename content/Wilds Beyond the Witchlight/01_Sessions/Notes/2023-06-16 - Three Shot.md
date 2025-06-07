@@ -1,0 +1,13 @@
+- Orishann and Clinker on Farbala's yacht
+- Mylah with Mittens and Sox
+- Ensoo and Bob on terrace 
+	- Head to yacht
+	- Shines light to try to see dark elves
+	- They move with the shadows
+	- Try to open warehouse door and dark elves engaged
+	- Ran through warehouse 
+	- **Fight!**
+- Orishann and Clinker 
+	- Safe is full of mimics 
+	- Mimic latches onto Orishann
+	- We left the 

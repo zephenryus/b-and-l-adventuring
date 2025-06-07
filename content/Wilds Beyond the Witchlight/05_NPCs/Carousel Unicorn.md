@@ -1,0 +1,1 @@
+**Description**: Cursed creature; hints at danger through deals.

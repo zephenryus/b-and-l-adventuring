@@ -1,0 +1,1 @@
+**Description**: Ellie “Tumble” Tumblestrum – Gnome bard, friendly; may be sympathetic to your cause.
