@@ -1,31 +1,31 @@
 ---
-aliases: [👥 Player Characters]
-linter-yaml-title-alias: 👥 Player Characters
+aliases: [Player Characters]
+linter-yaml-title-alias: Player Characters
 tags: []
 title: 👥 Player Characters
 ---
 
-# 👥 Player Characters
+# Player Characters
 
 Meet the brave heroes of our Wild Beyond the Witchlight campaign!
 
-## 🌟 Main Party
+## Main Party
 
 Our core group of adventurers facing the mysteries of the Feywild:
 
 ### Current Active Characters
 
-- [[Barnabus Fleetfoot|🏃‍♂️ Barnabus Fleetfoot]] - Quick on his feet and quicker with his wit
-- [[Bartleby the Bard|🎵 Bartleby the Bard]] - Our musical storyteller and heart of the party
-- [[Destin-y Dub|⚡ Destin-y Dub]] - Destiny calls, and they answer
-- [[Jaquline|⚔️ Jaquline]] - Fierce warrior with a determined spirit
-- [[Lotta Corzaren|🔮 Lotta Corzaren]] - Magical prowess meets strong will
+- [[Barnabus Fleetfoot|Barnabus Fleetfoot]] - Quick on his feet and quicker with his wit
+- [[Bartleby the Bard|Bartleby the Bard]] - Our musical storyteller and heart of the party
+- [[Destin-y Dub|Destin-y Dub]] - Destiny calls, and they answer
+- [[Jaquline|Jaquline]] - Fierce warrior with a determined spirit
+- [[Lotta Corzaren|Lotta Corzaren]] - Magical prowess meets strong will
 
-## 🎭 Guest Appearances
+## Guest Appearances
 
 ### Special Guest Characters
 
-- [[Guest Player Characters|🌟 Guest Player Characters]] - Heroes who joined us for memorable sessions
+- [[Guest Player Characters|Guest Player Characters]] - Heroes who joined us for memorable sessions
 
 ## Party Dynamics
 

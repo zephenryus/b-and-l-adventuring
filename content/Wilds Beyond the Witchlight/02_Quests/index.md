@@ -1,15 +1,15 @@
 ---
-aliases: [⚔️ Quests]
-linter-yaml-title-alias: ⚔️ Quests
+aliases: [Quests]
+linter-yaml-title-alias: Quests
 tags: []
-title: ⚔️ Quests
+title: Quests
 ---
 
-# ⚔️ Quests
+# Quests
 
 Track our party's objectives and missions throughout the Feywild adventure.
 
-## 🎯 Main Quests
+## Main Quests
 
 These are the primary objectives driving our campaign forward:
 
@@ -20,7 +20,7 @@ These are the primary objectives driving our campaign forward:
 - [[Main Quests/Unmask the Mystery of the Witchlight Carnival|Unmask the Mystery of the Witchlight Carnival]] - Uncover the truth
 - [[Main Quests/Decipher the Floating Rune Stone|Decipher the Floating Rune Stone]] - Solve the mystery
 
-## 🗡️ Side Quests
+## Side Quests
 
 Additional missions and favors we've picked up along the way:
 

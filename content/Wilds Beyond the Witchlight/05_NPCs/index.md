@@ -1,57 +1,57 @@
 ---
-aliases: [🎭 NPCs (Non-Player Characters)]
-linter-yaml-title-alias: 🎭 NPCs (Non-Player Characters)
+aliases: [NPCs (Non-Player Characters)]
+linter-yaml-title-alias: NPCs (Non-Player Characters)
 tags: []
-title: 🎭 NPCs (Non-Player Characters)
+title: NPCs (Non-Player Characters)
 ---
 
-# 🎭 NPCs (Non-Player Characters)
+# NPCs (Non-Player Characters)
 
 Meet the colorful cast of characters our party has encountered throughout the Wild Beyond the Witchlight campaign.
 
-## 👑 Major Antagonists
+## Major Antagonists
 
 ### The Hourglass Coven
 
-- [[Granny Nightshade|🕷️ Granny Nightshade]] - The primary villain of our campaign
-- [[Bavlorna Blightstraw|🐸 Bavlorna Blightstraw]] - One of the hag sisters
+- [[Granny Nightshade|Granny Nightshade]] - The primary villain of our campaign
+- [[Bavlorna Blightstraw|Bavlorna Blightstraw]] - One of the hag sisters
 
-## 🤝 Allies & Friends
+## Allies & Friends
 
 ### Helpful Companions
 
-- [[Squirt|💧 Squirt]] - Our loyal companion who needs boggle-oil
-- [[Kellek|⚔️ Kellek]] - A steadfast ally in our adventures
-- [[Sassy|😼 Sassy]] - A character with attitude and heart
+- [[Squirt|Squirt]] - Our loyal companion who needs boggle-oil
+- [[Kellek|Kellek]] - A steadfast ally in our adventures
+- [[Sassy|Sassy]] - A character with attitude and heart
 
-## 🎪 Carnival Folk
+## Carnival Folk
 
 ### Witchlight Carnival Inhabitants
 
-- [[Mr. Witch|🎩 Mr. Witch]] - Mysterious carnival figure
-- [[Carousel Unicorn|🦄 Carousel Unicorn]] - Magical carnival attraction
+- [[Mr. Witch|Mr. Witch]] - Mysterious carnival figure
+- [[Carousel Unicorn|Carousel Unicorn]] - Magical carnival attraction
 
-## 🏰 Nobles & Leaders
+## Nobles & Leaders
 
 ### Important Figures
 
-- [[Lamorna|👸 Lamorna]] - A figure of significance in the Feywild
-- [[Endalin Moongrave|🌙 Endalin Moongrave]] - An elven noble with secrets
+- [[Lamorna|Lamorna]] - A figure of significance in the Feywild
+- [[Endalin Moongrave|Endalin Moongrave]] - An elven noble with secrets
 
-## 🛡️ Warriors & Adventurers
+## Warriors & Adventurers
 
 ### Fellow Fighters
 
-- [[Wrefren Boldkind|⚔️ Wrefren Boldkind]] - A brave warrior
-- [[Gundrun Rockseeker|⛏️ Gundrun Rockseeker]] - A dwarven ally
+- [[Wrefren Boldkind|Wrefren Boldkind]] - A brave warrior
+- [[Gundrun Rockseeker|Gundrun Rockseeker]] - A dwarven ally
 
-## 🧙‍♀️ Mystical Beings
+## Mystical Beings
 
 ### Magical Creatures & Spellcasters
 
-- [[Ellie Tumblestrum|✨ Ellie Tumblestrum]] - A magical companion
-- [[Zarak|🔮 Zarak]] - A mysterious figure
-- [[Zilbna|🌟 Zilbna]] - Another mystical character
+- [[Ellie Tumblestrum|Ellie Tumblestrum]] - A magical companion
+- [[Zarak|Zarak]] - A mysterious figure
+- [[Zilbna|Zilbna]] - Another mystical character
 
 ## NPC Categories
 

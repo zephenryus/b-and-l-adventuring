@@ -1,42 +1,42 @@
 ---
-aliases: [🗺️ Locations]
-linter-yaml-title-alias: 🗺️ Locations
+aliases: [Locations]
+linter-yaml-title-alias: Locations
 tags: []
-title: 🗺️ Locations
+title: Locations
 ---
 
-# 🗺️ Locations
+# Locations
 
 Explore the mystical and dangerous places our party has discovered throughout the Feywild and beyond.
 
-## 🎪 The Feywild Realm - Prismeer
+## The Feywild Realm - Prismeer
 
 ### Core Locations in Prismeer
 
-- [[Hither|🌿 Hither]] - The first domain we explored, ruled by swamps and mists
-- [[Thither|🍄 Thither]] - The second domain of our journey
-- [[Yon|❄️ Yon]] - The final domain awaiting our arrival
-- [[Palace of Heart's Desire|👑 Palace of Heart's Desire]] - The ultimate destination
+- [[Hither|Hither]] - The first domain we explored, ruled by swamps and mists
+- [[Thither|Thither]] - The second domain of our journey
+- [[Yon|Yon]] - The final domain awaiting our arrival
+- [[Palace of Heart's Desire|Palace of Heart's Desire]] - The ultimate destination
 
-## 🎠 The Carnival
+## The Carnival
 
 ### Witchlight Carnival
 
-- [[Witchlight Carnival|🎭 Witchlight Carnival]] - Where our adventure began, full of mystery and magic
+- [[Witchlight Carnival|Witchlight Carnival]] - Where our adventure began, full of mystery and magic
 
-## 🏔️ Other Realms
+## Other Realms
 
 ### Material Plane Locations
 
-- [[Wave Echo Cave|⛰️ Wave Echo Cave]] - A cave with echoing mysteries
-- [[Abandoned Dwarven City|🏛️ Abandoned Dwarven City]] - Ancient ruins holding secrets
+- [[Wave Echo Cave|Wave Echo Cave]] - A cave with echoing mysteries
+- [[Abandoned Dwarven City|Abandoned Dwarven City]] - Ancient ruins holding secrets
 
-## 🌊 Mystical Places
+## Mystical Places
 
 ### Special Locations
 
-- [[Wayward Pool|💧 Wayward Pool]] - A magical pool with strange properties
-- [[Prismeer|✨ Prismeer]] - The overall domain of the Feywild we're exploring
+- [[Wayward Pool|Wayward Pool]] - A magical pool with strange properties
+- [[Prismeer|Prismeer]] - The overall domain of the Feywild we're exploring
 
 ## Location Guide
 

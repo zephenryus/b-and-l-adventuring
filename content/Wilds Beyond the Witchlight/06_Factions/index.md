@@ -5,23 +5,23 @@ tags: []
 title: ⚖️ Factions
 ---
 
-# ⚖️ Factions
+# Factions
 
 Learn about the various groups and organizations that influence our Wild Beyond the Witchlight campaign.
 
-## 🕷️ The Hourglass Coven
+## The Hourglass Coven
 
 ### Primary Antagonist Faction
 
-- [[Hourglass Coven|⏳ The Hourglass Coven]] - The hag sisters who rule Prismeer and oppose our party
+- [[Hourglass Coven|The Hourglass Coven]] - The hag sisters who rule Prismeer and oppose our party
 
 The most significant threat to our party and the realm of Prismeer. This coven of powerful hags has trapped the domain in temporal stasis and serves as our primary opposition throughout the campaign.
 
-## 🏃‍♂️ Will's Getaway Gang
+## Will's Getaway Gang
 
 ### Mysterious Criminal Organization
 
-- [[Will's Getaway Gang|🎭 Will's Getaway Gang]] - A group with unclear motives and connections
+- [[Will's Getaway Gang|Will's Getaway Gang]] - A group with unclear motives and connections
 
 A faction we've encountered whose true intentions and capabilities remain largely unknown. Their relationship to the broader conflict is still being uncovered.
 

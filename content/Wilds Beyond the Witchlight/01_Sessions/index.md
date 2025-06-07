@@ -1,11 +1,11 @@
 ---
-aliases: [📝 Session Notes]
-linter-yaml-title-alias: 📝 Session Notes
+aliases: [Session Notes]
+linter-yaml-title-alias: Session Notes
 tags: []
-title: 📝 Session Notes
+title: Session Notes
 ---
 
-# 📝 Session Notes
+# Session Notes
 
 Keep track of our adventures through detailed session notes and summaries.
 
@@ -20,13 +20,13 @@ Keep track of our adventures through detailed session notes and summaries.
 
 ## Browse by Type
 
-### 📋 Detailed Notes
+### Detailed Notes
 
 Complete session transcripts and detailed notes from each game:
 
 - [[Notes/Notes|View All Session Notes]]
 
-### 📖 Session Summaries
+### Session Summaries
 
 Condensed recaps of our adventures:
 
@@ -34,7 +34,7 @@ Condensed recaps of our adventures:
 - [[Summaries/2025-05-02 - The Unicorn's Bargain|The Unicorn's Bargain]]
 - [[Summaries/Summaries|View All Summaries]]
 
-### 🎯 Quest Tracking
+### Quest Tracking
 
 - [[Notes/Wild Beyond the Witchlight Quests|Current Quest Status]]
 
