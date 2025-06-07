@@ -1,11 +1,11 @@
 ---
-aliases: [NPCs (Non-Player Characters)]
-linter-yaml-title-alias: NPCs (Non-Player Characters)
+aliases: [NPCs]
+linter-yaml-title-alias: NPCs
 tags: []
-title: NPCs (Non-Player Characters)
+title: NPCs
 ---
 
-# NPCs (Non-Player Characters)
+# NPCs
 
 Meet the colorful cast of characters our party has encountered throughout the Wild Beyond the Witchlight campaign.
 

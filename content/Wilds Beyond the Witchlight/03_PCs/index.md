@@ -1,11 +1,11 @@
 ---
-aliases: [Player Characters]
-linter-yaml-title-alias: Player Characters
+aliases: [PCs]
+linter-yaml-title-alias: PCs
 tags: []
-title: 👥 Player Characters
+title: PCs
 ---
 
-# Player Characters
+# PCs
 
 Meet the brave heroes of our Wild Beyond the Witchlight campaign!
 

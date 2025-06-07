@@ -1,8 +1,8 @@
 ---
-aliases: [⚖️ Factions]
-linter-yaml-title-alias: ⚖️ Factions
+aliases: [Factions]
+linter-yaml-title-alias: Factions
 tags: []
-title: ⚖️ Factions
+title: Factions
 ---
 
 # Factions
