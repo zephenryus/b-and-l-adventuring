@@ -5,13 +5,13 @@ tags: [pc]
 title: Lotta
 ---
 
-# Lotta
+# Lotta Cozaren
 
 **Player**: Jen
 **Race**: Half-Elf
 **Class**: Ranger (Hunter) / Paladin (Oath of Devotion)
 **Status**: Active
-**First Appeared**: [[08 - Hobbies/DnD/Wilds Beyond the Witchlight/01_Sessions/Notes/2024-03-08]]
+**First Appeared**: [[08 - Hobbies/DnD/Wilds Beyond the Witchlight/01_Sessions/Notes/2024-03-08|2024-03-08]]
 
 ## Character Overview
 
